@@ -29,7 +29,7 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency 'bundler'
   spec.add_development_dependency 'hyper-spec', Hyperloop::Component::VERSION
   spec.add_development_dependency 'listen'
-  spec.add_development_dependency 'mini_racer', '~> 0.1.15'
+  spec.add_development_dependency 'mini_racer', '~> 0.2'
   spec.add_development_dependency 'opal', '>= 0.11.0', '< 0.12.0'
   spec.add_development_dependency 'opal-browser', '~> 0.2.0'
   spec.add_development_dependency 'rails', '>= 4.0.0'
